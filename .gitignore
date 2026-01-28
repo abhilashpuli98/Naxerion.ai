@@ -5,6 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+*.onnx
+*.pt
+*.bin
+node_modules/
+.env
+__pycache__/
+
 
 # Distribution / packaging
 .Python
